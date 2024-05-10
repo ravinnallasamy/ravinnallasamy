@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="![WhatsApp Image 2024-05-10 at 15 56 56_0d2827b9](https://github.com/ravinnallasamy/ravinnallasamy/assets/165783304/dc6aba4b-8791-4542-9b73-c857ef544ee5)
-" alt="Your Name's Profile Image" width="150">
-</p>
+  <img src="https://github.com/ravinnallasamy/ravinnallasamy/assets/165783304/dc6aba4b-8791-4542-9b73-c857ef544ee5" alt="Your Name's Profile Image" width="400">
+</p> 
+
 🌟 Passionate IT student | 🚀 Coding enthusiast | 🌱 Tech explorer<br><br>👨‍💻 Fluent in Java & C | 📱 Exploring Android | 💡 Problem solver<br><br>✉️ Reach out at ravinit001@gmail.com |  Let's connect!<br>
 
 
