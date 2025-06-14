@@ -1,55 +1,57 @@
 <p align="center">
-  <img src="https://github.com/ravinnallasamy/ravinnallasamy/assets/165783304/dc6aba4b-8791-4542-9b73-c857ef544ee5" alt="Ravin Nallasamy" width="300">
+  <img src="https://github.com/ravinnallasamy/ravinnallasamy/assets/165783304/dc6aba4b-8791-4542-9b73-c857ef544ee5" alt="Ravin Nallasamy" width="250">
 </p>
 
-<h1 align="center">Hi, I'm Ravin Nallasamy 👋</h1>
-<h3 align="center">Computer Science Student | Mobile App Developer | Tech Enthusiast</h3>
+<h1 align="center">Ravin Nallasamy</h1>
+<h3 align="center">IT Engineer | Mobile Development Specialist</h3>
 
-## 🔭 About Me
+---
 
-- 🎓 Pursuing degree in Computer Science
-- 💻 Specializing in Java, C, and Flutter development
-- 📱 Passionate about building mobile applications
-- 🌱 Currently learning advanced Android development
-- 📫 How to reach me: ravinit001@gmail.com
+## 📌 Professional Summary
+Results-driven IT student with expertise in mobile application development using Java and Flutter. Passionate about creating efficient, user-centric solutions with clean code architecture.
 
-## 🛠️ Tech Stack
+---
 
-**Programming Languages**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+## 🛠 Core Competencies
 
-**Frameworks & Tools**  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+### Programming Languages
+[![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&link=https://github.com/RAVINNALLASAMY/RAVINNALLASAMY/blob/main/assets/java.md)](https://github.com/RAVINNALLASAMY/RAVINNALLASAMY/blob/main/assets/java.md)
+[![C](https://img.shields.io/badge/C-Advanced-00599C?style=for-the-badge&logo=c&logoColor=white&link=https://github.com/RAVINNALLASAMY/RAVINNALLASAMY/blob/main/assets/c.md)](https://github.com/RAVINNALLASAMY/RAVINNALLASAMY/blob/main/assets/c.md)
+[![Flutter](https://img.shields.io/badge/Flutter-Intermediate-02569B?style=for-the-badge&logo=flutter&logoColor=white&link=https://github.com/RAVINNALLASAMY/RAVINNALLASAMY/blob/main/assets/flutter.md)](https://github.com/RAVINNALLASAMY/RAVINNALLASAMY/blob/main/assets/flutter.md)
 
-## 📊 GitHub Stats
+### Development Tools
+[![Android Studio](https://img.shields.io/badge/Android_Studio-Expert-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&link=https://github.com/RAVINNALLASAMY/RAVINNALLASAMY/blob/main/assets/android.md)](https://github.com/RAVINNALLASAMY/RAVINNALLASAMY/blob/main/assets/android.md)
+[![Firebase](https://img.shields.io/badge/Firebase-Intermediate-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&link=https://github.com/RAVINNALLASAMY/RAVINNALLASAMY/blob/main/assets/firebase.md)](https://github.com/RAVINNALLASAMY/RAVINNALLASAMY/blob/main/assets/firebase.md)
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RAVINNALLASAMY&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RAVINNALLASAMY&theme=dark" />
+  <a href="https://github.com/RAVINNALLASAMY">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RAVINNALLASAMY&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAVINNALLASAMY&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAVINNALLASAMY&layout=compact&theme=dark" />
-</p>
+---
 
-## 🌐 Connect With Me
+## 🏆 Certifications
+- [Oracle Certified Associate: Java SE 8 Programmer]()
+- [Google Flutter Certification]()
+- [Android Development Nanodegree]()
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravin-n-a8b336258/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravinit001@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/@Ravinnallasamy)
+---
 
-## 🏆 GitHub Trophies
+## 📫 Professional Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravin-n-a8b336258/)
+[![Email](https://img.shields.io/badge/Email-ravinit001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravinit001@gmail.com)
 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=RAVINNALLASAMY&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="RAVINNALLASAMY" />
-</p>
+---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
+## 🔍 How to Implement the Clickable Skills:
+
+1. **Create skill markdown files** in an `/assets` folder:
+   ```bash
+   mkdir -p assets && cd assets
+   touch java.md c.md flutter.md android.md firebase.md
